@@ -1,14 +1,6 @@
-# CHANGELOG
+CHANGELOG
 
-## {DATE}
-### Contributors
-...
+4/15/2024
+Rebecca Wong
 
-### Added
-...
-
-### Changed
-...
-
-### Removed
-...
+Added image of DevBoard turned on
